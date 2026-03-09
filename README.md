@@ -6,16 +6,18 @@ A modern, dark-themed personal portfolio website built with pure HTML, CSS, and 
 
 
 🚀 About
+
 This is my personal portfolio website showcasing my skills, education, and projects as an aspiring Software Developer. It highlights my journey from completing my B.Tech at K.L.N College of Engineering to learning Java at J Spiders Bangalore, Automation Testing, and now exploring AI Agents.
 
 🛠️ Tech Stack
+
 SkillDetailsJavaCore Java, OOP, Collections, JDBC — trained at J Spiders, BangaloreSeleniumWebDriver, cross-browser automation testingTestNG & CucumberBDD, Gherkin, seq & parallel testingPOM & Extent ReportsPage Object Model design pattern, and  designAI AgentsBeginner — learning to build agents using LLM API keys (OpenAI, Gemini)
 
 📚 Education & Training
 
 🎓 B.Tech — Information Technology · K.L.N College of Engineering (2019–2022)
-☕ Java Training · J Spiders, Bangalore
-🧪 Automation Testing · Selenium · TestNG · Cucumber · POM · Extent Reports
+☕ Java Training · J Spiders, Bangalore.
+🧪 Automation Testing · Selenium · TestNG · Cucumber · POM · Extent Reports .testleaf,chennai.
 🤖 AI Agents · Currently exploring (Beginner level)
 
 
