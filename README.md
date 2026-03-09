@@ -11,13 +11,13 @@ This is my personal portfolio website showcasing my skills, education, and proje
 
 🛠️ Tech Stack
 
-SkillDetailsJavaCore Java, OOP, Collections, JDBC — trained at J Spiders, BangaloreSeleniumWebDriver, cross-browser automation testingTestNG & CucumberBDD, Gherkin, seq & parallel testingPOM & Extent ReportsPage Object Model design pattern, and  designAI AgentsBeginner — learning to build agents using LLM API keys (OpenAI, Gemini)
+Java, OOP, Collections,SeleniumWebDriver, cross-browser automation testingTestNG & CucumberBDD, Gherkin, seq & parallel testingPOM & Extent Reports , Page Object Model design pattern, and  designAI AgentsBeginner — learning to build agents using LLM API keys (OpenAI, Gemini)
 
 📚 Education & Training
 
 🎓 B.Tech — Information Technology · K.L.N College of Engineering (2019–2022)
 ☕ Java Training · J Spiders, Bangalore.
-🧪 Automation Testing · Selenium · TestNG · Cucumber · POM · Extent Reports .testleaf,chennai.
+🧪 Automation Testing · Selenium · TestNG · Cucumber · POM · Extent Reports .Testleaf,chennai.
 🤖 AI Agents · Currently exploring (Beginner level)
 
 
