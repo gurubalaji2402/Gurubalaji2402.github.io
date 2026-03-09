@@ -1,6 +1,9 @@
- Personal Portfolio Website
+<h2><center>Personal Portfolio Website</center></h2>
+
 A modern, dark-themed personal portfolio website built with pure HTML, CSS, and JavaScript. Hosted live via GitHub Pages.
+
 🔗 Live Site: gurubalaji2402.github.io
+
 
 🚀 About
 This is my personal portfolio website showcasing my skills, education, and projects as an aspiring Software Developer. It highlights my journey from completing my B.Tech at K.L.N College of Engineering to learning Java at J Spiders Bangalore, Automation Testing, and now exploring AI Agents.
